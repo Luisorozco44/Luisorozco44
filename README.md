@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Right">
 
 ### 👁️ Visitas al perfil
 
