@@ -1,10 +1,11 @@
-<div align="Right">
+<div align="right">
 
-### 👁️ Visitas al perfil
+### 👁️ Visitas al perfil  
 
-<img src="https://komarev.com/ghpvc/?username=Luisorozco44&color=blueviolet&style=flat-square](https://komarev.com/ghpvc/?username=miusuario&label=Profile%20views&color=ff69b4&style=for-the-badge)" />
+![Visitas](https://komarev.com/ghpvc/?username=Luisorozco44&label=Profile%20views&color=ff69b4&style=for-the-badge)
 
 </div>
+
 
   
 <!--
