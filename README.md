@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Conteo de visitantes</p> 
-  ![](https://komarev.com/ghpvc/?username=TU_USUARIO)
+  ![](https://komarev.com/ghpvc/?username=Luisorozco44)
 
   
 <!--
