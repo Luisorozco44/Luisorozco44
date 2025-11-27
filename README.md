@@ -1,6 +1,10 @@
-<div align="center"> 
-  <p>Conteo de visitantes</p> 
-  ![](https://komarev.com/ghpvc/?username=Luisorozco44)
+<div align="center">
+
+### 👁️ Visitas al perfil
+
+<img src="https://komarev.com/ghpvc/?username=Luisorozco44&color=blueviolet&style=flat-square" />
+
+</div>
 
   
 <!--
