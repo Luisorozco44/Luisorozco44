@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Conteo de visitantes</p> 
-  <img src="https://profile-counter.glitch.me/{Luisorozco44}/count.svg" alt="Conteo de visitantes" /> 
+  <img src="![](https://komarev.com/ghpvc/?username=Luisorozco44)" alt="Conteo de visitantes" /> 
 </div>
 <!--
 **Luisorozco44/Luisorozco44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
