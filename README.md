@@ -1,7 +1,8 @@
 <div align="center"> 
   <p>Conteo de visitantes</p> 
-  <img src="![](https://komarev.com/ghpvc/?username=Luisorozco44)" alt="Conteo de visitantes" /> 
-</div>
+  ![](https://komarev.com/ghpvc/?username=TU_USUARIO)
+
+  
 <!--
 **Luisorozco44/Luisorozco44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
